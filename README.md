@@ -1,3 +1,1 @@
-# my_web
- i am prem bhavesh anuj
-C:/Users/Student/Desktop/index.html
+https://github.com/756prem917/my_web
